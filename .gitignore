@@ -1,0 +1,10 @@
+*.o
+*.so
+*.swo
+*.swp
+*.log
+*.lock
+.deps/
+dump.txt
+src.old/
+test*
